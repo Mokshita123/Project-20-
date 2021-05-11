@@ -1,2 +1,2 @@
-# project-20-algorithms-
+# project-20
 the cat and mouse
